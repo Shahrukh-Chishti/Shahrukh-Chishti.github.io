@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman
 mathjax: true
 title: "Baseless Recursion"
-markdown : kramdown
+markdown: kramdown
