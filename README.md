@@ -1,9 +1,5 @@
-# Shahrukh-Chishti.github.io
+# Baseless Recursion
 Web blogs on ongoing, completed, initiated, embryonic works
 
 
-[google]:www.google.com
-
->! hidden
-
-$$ S=k_blnW $$
+[google](www.google.com)
