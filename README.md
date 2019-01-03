@@ -4,4 +4,4 @@ Web blogs on ongoing, completed, initiated, embryonic works
 
 [google](www.google.com)
 
-$ S=k_BlnW $
+This has been a confusing day $ S=k_BlnW $, so far.
