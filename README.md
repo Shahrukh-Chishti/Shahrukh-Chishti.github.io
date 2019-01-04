@@ -1,4 +1,4 @@
-{include _includes/head.html}
+{% include _includes/head.html %}
 
 # Baseless Recursion
 Web blogs on ongoing, completed, initiated, embryonic works
