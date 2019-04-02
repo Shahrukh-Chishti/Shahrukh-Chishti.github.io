@@ -1,2 +1,9 @@
+---
+layout: post
+title: "Hank Quinlan, Horrible Cop, Launches Site"
+date: 2019-02-04
+---
+
+
 ZooZoo trees are GUI based dendograms that are dynamically handled.
 Created by @ using D3 fork 
