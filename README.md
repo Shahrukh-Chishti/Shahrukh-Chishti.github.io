@@ -13,6 +13,10 @@ In a nutshell, this space is dedicated to publish my independent efforts towards
 
 ## Functioning of jekyll
 
+### Theme & Layout
+'jekyll-theme-cayman' does not have 'home','post' layouts
+
 ### Execution
 * '''console bundle exec jekyll serve'''
-* _site folder is output of jekyll processing
+* site folder is output of jekyll processing
+* '''console bundle exec jekyll build --verbose'''

@@ -3,3 +3,4 @@ mathjax: true
 title: "Baseless Recursion"
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+future: true
