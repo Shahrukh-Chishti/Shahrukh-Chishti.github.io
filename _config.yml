@@ -3,7 +3,7 @@ theme: jekyll-theme-cayman
 #theme: minima
 mathjax: true
 title: "Baseless Recursion"
-description: "recurring on same ideas again & again"
+description: "recurring on reality again & again"
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 future: true

@@ -5,8 +5,6 @@ description: {{ site.description }}
 ---
 {% include head.html%}
 
-## Web blogs on ongoing, completed, initiated, embryonic works
-
 # [about](About)
 # [blog](http://www.google.com)
 * [google](http://www.google.com)
