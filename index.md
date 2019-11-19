@@ -6,13 +6,16 @@ description: {{ site.description }}
 {% include head.html%}
 
 # [about](About)
-# [blog](http://www.google.com)
-* [google](http://www.google.com)
+## [tech](tech)
+## [machine learning](ml)
+## [electronics](electronic)
+## [mathematics](maths)
+## [physics](physics)
+## [information theory](info-theo)
+## [humanity & arts](arts)
+
 * [ZooZoo](ZooZoo)
+* [README](README)
 
-|0|3|4|1|
-|---|---|---|---|
-|8|8|3|6|
-
-
-This has been a confusing day $ S=k_BlnW $, so far.
+|9|8|1|8|2|
+|7|4|7|3|0|
