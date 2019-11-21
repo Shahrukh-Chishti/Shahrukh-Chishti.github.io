@@ -7,3 +7,9 @@ description: "recurring on reality again & again"
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 future: true
+
+
+
+collections:
+        tech:
+                output: true

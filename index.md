@@ -8,14 +8,13 @@ description: {{ site.description }}
 # [about](About)
 ## [tech](tech)
 ## [machine learning](ml)
-## [electronics](electronic)
+## [electronics](electronics)
 ## [mathematics](maths)
 ## [physics](physics)
 ## [information theory](info-theo)
 ## [humanity & arts](arts)
 
-* [ZooZoo](ZooZoo)
-* [README](README)
+#### [README](README)
 
 |9|8|1|8|2|
 |7|4|7|3|0|

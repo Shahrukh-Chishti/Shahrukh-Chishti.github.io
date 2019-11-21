@@ -18,6 +18,9 @@ permalink: "/README/"
 	* docs
 	* etc...
 
+## Resources
+* [Generalized Synchronization](https://prezi.com/view/mPVFgZi7EvJQEK0Eyl9b/)
+* [Kuramoto Extension](https://prezi.com/view/v4QTpQSwCUMPMpkcx2oU/)
 
 
 ## Objective of Blog
@@ -26,7 +29,7 @@ It is meant to be growing with suggestion and research. That blog-post are not s
 Some are completed research, some exposition of new idea and others opinion etc.
 In future, I would try to classify these works for the sake of clarity.
 
-I would try to maintain originality of work and appropriate references.
+I would try to maintain originality of work supported by appropriate references.
 All the articles is preserved through blog framework.
 Repository of supporting data, code etc. is attached to corresponding blog.
 So you can try, help, correct and extend research.

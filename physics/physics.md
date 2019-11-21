@@ -1,10 +1,9 @@
 ---
 layout: page
-title: tech
+title: physics
 description: software, tools, apps
-permalink: "/tech/"
+permalink: "/physics/"
+output: true
 ---
-
-* [ZooZoo](ZooZoo)
 
 
