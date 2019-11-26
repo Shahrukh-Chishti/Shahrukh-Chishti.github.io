@@ -6,6 +6,6 @@ permalink: "/tech/"
 output: true
 ---
 
-* [ZooZoo](ZooZoo)
+### [ZooZoo](ZooZoo)
 
 

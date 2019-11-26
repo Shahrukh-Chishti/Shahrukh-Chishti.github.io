@@ -17,6 +17,9 @@ It may also be possible to derive these results from higher level theorems.
 But then this ladder has no end and I have bound on my knowledge capacity.
 Feel free to correct & extend these analyses.
 
-### [Sparsity Fractals](sparse-fracs)
+### Sparsity Fractals
+* [Fractals](sparse-fracs)
+* [Analysis](sparse-analyse)
+* [Extension](sparse-extension)
 ### Symmetry in Modular Summation
 * [Proof](proof-mod-summa)

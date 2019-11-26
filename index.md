@@ -3,7 +3,7 @@ layout: default
 title: {{site.name}}
 description: {{ site.description }}
 ---
-{% include head.html%}
+{% include mathjax.html%}
 
 # [about](About)
 ## [tech](tech)

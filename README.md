@@ -19,9 +19,11 @@ permalink: "/README/"
 	* etc...
 
 ## Resources
+### Prezi
 * [Generalized Synchronization](https://prezi.com/view/mPVFgZi7EvJQEK0Eyl9b/)
 * [Kuramoto Extension](https://prezi.com/view/v4QTpQSwCUMPMpkcx2oU/)
 
+### Draw.io
 
 ## Objective of Blog
 This blog space is meant to present various works in process, completion or ideation.
