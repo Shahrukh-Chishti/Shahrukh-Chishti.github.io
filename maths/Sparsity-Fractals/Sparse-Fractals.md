@@ -20,6 +20,7 @@ $$
 ## Abstract
 Place-value notation used in most of modern numeral representation is a recursive method.
 Representation of an integer series in a positional notation inherits this recursive nature.
+The observations are based on running simulations to identify the properties of the sparsity in a numeral system.
 This study exposes fractal patterns emerging in the sparsity of place value notation of integer series.
 
 
@@ -56,7 +57,8 @@ Formally, then sparsity would have to be defined as $count(0) / N$, where $N \ri
 # Sparsity Fractals
 Each of the following plots show multiple extension of representation capacity $N$.
 It present reverse infinity perspective.
-The abscissa (X - axis) doesn't show number encoded $x$, but index position of that number in the series. 
+The abscissa (X - axis) doesn't show number encoded $x$, but index position of that number in the series.
+While, the Y-axis marks number of zeros in the representation of $x$. 
 
 *dynamic plots are heavy, so for ease, we show png*
 ## Arithmetic progression
@@ -75,7 +77,7 @@ if you move up-down they appear moving side ways
 <img src="/maths/Sparsity-Fractals/Arith-Dec.png" width="800" > 
 </figure>
 
-### Geometric Progression
+## Geometric Progression
 ### Binary
 <figure align="center"> 
 <img src="/maths/Sparsity-Fractals/Geo-Bin.png" width="800" > 
@@ -93,7 +95,7 @@ if you move up-down they appear moving side ways
 <img src="/maths/Sparsity-Fractals/Geo-Hex.png" width="800" > 
 </figure>
 
-### Fibonacci Series
+## Fibonacci Series
 ### Binary
 <figure align="center"> 
 <img src="/maths/Sparsity-Fractals/Fib-Bin.png" width="800" > 
