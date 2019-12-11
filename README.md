@@ -20,8 +20,6 @@ permalink: "/README/"
 
 ## Resources
 ### Prezi
-* [Generalized Synchronization](https://prezi.com/view/mPVFgZi7EvJQEK0Eyl9b/)
-* [Kuramoto Extension](https://prezi.com/view/v4QTpQSwCUMPMpkcx2oU/)
 
 ### Draw.io
 
