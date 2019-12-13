@@ -20,5 +20,6 @@ Feel free to correct & extend these analyses.
 ### Sparsity Fractals
 * [Fractals](sparse-fracs)
 * [Analysis](sparse-analyse)
+
 ### Symmetry in Modular Summation
-* [Proof](proof-mod-summa)
+* [Theorem](theorem-mod-summa)
