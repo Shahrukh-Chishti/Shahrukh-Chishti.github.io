@@ -23,3 +23,11 @@ Feel free to correct & extend these analyses.
 
 ### Symmetry in Modular Summation
 * [Theorem](theorem-mod-summa)
+<!--
+* [Proof](proof-mod-summa)
+* Factorisation lemma
+* Invariant theory
+* Deutsch extension
+* Notation : Factor subgroup
+* Extension to other operations
+-->
