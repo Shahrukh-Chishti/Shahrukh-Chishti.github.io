@@ -14,7 +14,8 @@ description: {{ site.description }}
 ## [information theory](info-theo)
 ## [humanity & arts](arts)
 
-#### [README](README)
+<!-- #### [README](README)
 
 |9|8|1|8|2|
 |7|4|7|3|0|
+-->
