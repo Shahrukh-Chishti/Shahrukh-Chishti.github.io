@@ -165,7 +165,7 @@ $$
 <figcaption>Two-way recursion is enabling fractal emergence</figcaption>
 </figure>
 
-### Annihilition
+### Annihilation
 For the case of geometric progression $2,4,8...$ that fractal patterns disappear for binary, octal & hexadecimal bases. Instead, linear & stepped structures appear.
 This behaviour is demonstrate annihilation of generation process & encoding process, when both match each other at certain parameters.
 
