@@ -2,7 +2,7 @@
 layout: page
 title: cogito-sum
 description: retracing from atomic idealism, to a spectrum of reality
-permalink: "/arts/"
+permalink: "/arts/cogito-sum/"
 output: true
 ---
 
