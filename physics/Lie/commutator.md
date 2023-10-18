@@ -17,7 +17,7 @@ The commutator carries information of the underlying manifold geometry.
 
 ## Lie Bracket - Vector Fields
 <figure align="center"> 
-<img src="/physics/Lie/parallelogram.png" width="1000"> 
+<img src="/physics/Lie/LieBracket.png" width="1000"> 
 <figcaption>Closing of parallelogram on Euclidean geometry</figcaption>
 </figure>
 
@@ -25,10 +25,10 @@ The commutator carries information of the underlying manifold geometry.
 
 ### Parallel transport
 The Lie derivative builds on more information than a simple parallel transport.
-While the latter requires just a path on a manifold 
+While the latter requires just a path on a manifold, the former takes in the speed of moving over the path, as well.
 
 ## Lie Derivative
-Lie groups build a vector space with addition and multiplication operators.
+Lie algebra builds a vector space, termed as [Fundamental vector field](https://en.wikipedia.org/wiki/Fundamental_vector_field).
 
 <figure align="center"> 
 <img src="/physics/Lie/TeM.png" width="1000"> 
