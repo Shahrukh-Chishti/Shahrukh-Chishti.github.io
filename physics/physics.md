@@ -5,6 +5,9 @@ description: happenings, phenonmenon, realism
 permalink: "/physics/"
 output: true
 ---
+## Lie
+[Lie](Lie/commutator)
+
 ## Non-linear dynamics
 ### Generalised Synchronisation
 * [Synchronisation Manifold](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.98.032217)
