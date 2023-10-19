@@ -35,3 +35,9 @@ Lie algebra builds a vector space, termed as [Fundamental vector field](https://
 <figcaption>Tangent space of a Lie group G at its identity 1</figcaption>
 </figure>
 
+## Physics via Lie Groups
+The Heisenberg picture of quantum dynamics makes usage of Lie groups clearer.
+All of the dynamics is expressed as evolution of operators.
+The generator of temporal evolution is the Hamiltonian operator. So in order to evolve the state of the quantum system, the 
+More generally, the operators could be propagated under any other generator.
+
