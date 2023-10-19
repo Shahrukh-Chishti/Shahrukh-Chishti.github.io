@@ -6,7 +6,7 @@ permalink: "/physics/"
 output: true
 ---
 ## Lie
-[Lie](Lie/commutator)
+[Lie](Lie-commutator)
 
 ## Non-linear dynamics
 ### Generalised Synchronisation
