@@ -11,7 +11,7 @@ The commutator carries information of the underlying manifold geometry.
 
 ## First Encounter
 <figure align="center"> 
-<img src="/physics/Lie/parallelogram.png" width="1000"> 
+<img src="/physics/Lie/parallelogram.png" width="500"> 
 <figcaption>Closing of parallelogram on Euclidean geometry</figcaption>
 </figure>
 
@@ -41,3 +41,6 @@ All of the dynamics is expressed as evolution of operators.
 The generator of temporal evolution is the Hamiltonian operator. So in order to evolve the state of the quantum system, the 
 More generally, the operators could be propagated under any other generator.
 
+$$
+A(s),U(t) \in G \qquad \dv{A}{s} = a,\dv{U}{t} = O \qquad a,O \in \mathfrak{g} 
+$$

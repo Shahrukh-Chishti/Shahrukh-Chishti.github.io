@@ -5,8 +5,8 @@ description: happenings, phenonmenon, realism
 permalink: "/physics/"
 output: true
 ---
-## Lie
-[Lie](Lie-commutator)
+## Lie theory
+[Commutator \& Geometry](Lie-commutator)
 
 ## Non-linear dynamics
 ### Generalised Synchronisation
