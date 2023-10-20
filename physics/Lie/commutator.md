@@ -4,7 +4,6 @@ title: Lie Bracket == Commutator
 description: ubiquity of commutators
 permalink: "/physics/Lie-commutator/"
 ---
-<script src="mathjax-config.js"></script>
 
 $$
 \renewcommand{\so}{\Rightarrow}
