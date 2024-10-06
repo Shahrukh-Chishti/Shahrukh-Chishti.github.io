@@ -6,13 +6,28 @@ permalink: "/physics/Lie-commutator/"
 ---
 
 <script src="mathjax-config.js"></script>
-
-<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/KaTeX/0.11.1/katex.min.css">
-<script src="//cdnjs.cloudflare.com/ajax/libs/KaTeX/0.11.1/katex.min.js"></script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  TeX: {
+    Macros: {
+      "dv": ["\\frac{d}{d#1} #2", 2] // Creates a derivative command \deriv{variable}{function}
+    }
+  }
+});
+</script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  TeX: {
+    Macros: {
+      "ket": ["| #1 \\rangle", 1]  // Defines \ket{vector}
+    }
+  }
+});
+</script>
 
 
 $$
-\renewcommand{\so}{\Rightarrow}
+\newcommand{\so}{\Rightarrow}
 \newcommand{\im}{\iota}
 \newcommand{\g}{\mathfrak{g}}
 $$
@@ -34,7 +49,7 @@ Generally, the manifold is a non-Euclidean geometry embedded inside a higher dim
 ## Lie Bracket - Vector Fields
 <figure align="center"> 
 <img src="/physics/Lie/LieBracket.png" width="1000"> 
-<figcaption>Flow fields generate the movement, $x_0 to x$ over $\epsilon$ time .$\tilde{X} \neq X(x)$</figcaption>
+<figcaption>Flow fields generate the movement, $x_0 \to x$ over $\epsilon$ time .$\tilde{X} \neq X(x)$</figcaption>
 </figure>
 
 $$
@@ -50,7 +65,7 @@ Commutator describes the geometry of the flow, with respect to another flow.
 The Lie derivative builds on more information than a simple parallel transport.
 While the latter requires only a path on the manifold, the former takes in the speed of moving over the path, as well.
 Mathematically, $\phi_\epsilon(x_0)=x$ undergoes expansion.
-$$\so X(x) \neq \tilde(X)$$
+$$\so X(x) \neq \tilde{X}$$
 
 Flow vector fields $Y(x) = \dot{\phi}(x)$ guide the direction and the distance(mistakenly ignored in diagram)
 Obviously, metric tensor is a prerequisite to define a path. The geometry of the manifold is manifest via parallel transport derivative, as well. 
@@ -92,8 +107,8 @@ In the formulation of quantum mechanics, these *direction vectors* could be mome
 
 $$
 \begin{gather}
-A(s),U(t) \in G \qquad \dv{A}{s}(s=0) = a,\dv{U}{t}(t=0) = O \qquad a,O \in \g // 
-\so A(s) = \exp{\im s a} \qquad U(t) = \exp{\im t O} //
+A(s),U(t) \in G \qquad \dv{A}{s}(s=0) = a,\dv{U}{t}(t=0) = O \qquad a,O \in \g \\ 
+\so A(s) = \exp{\im s a} \qquad U(t) = \exp{\im t O} \\
 \dv{\dv{A_{s=0}(t=0)}{t}}{s} = [a,O] \in \g
 \end{gather}
 $$
