@@ -13,7 +13,6 @@ $$
 \renewcommand{\so}{\Rightarrow}
 \newcommand{\im}{\iota}
 \newcommand{\g}{\mathfrak{g}}
-\newcommand{\inv}{^{-1}}
 $$
 
 # Commutators $$[A,B]$$
@@ -105,7 +104,7 @@ This axiom constraints the generators to be Hermitian.
 
 Does the Lie derivatve completely describe the dynamics of the operator ?
 $$
-A_s(t) = U_t\inv A(s) U_t
+A_s(t) = U_t^{-1} A(s) U_t
 $$
 The 2-parameter evolution describe an operator-valued map over suitable coordinates-t,s.
 
