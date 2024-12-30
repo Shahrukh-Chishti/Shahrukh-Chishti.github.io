@@ -7,10 +7,10 @@ output: true
 ---
 
 ### projects
-* Non-invasive telepathy !![EEG During Mental Arithmetic Tasks](https://physionet.org/content/eegmat/1.0.0/)
+* Non-invasive telepathy ! [EEG During Mental Arithmetic Tasks](https://physionet.org/content/eegmat/1.0.0/)
 
 ### theory
-* [Bias-Variance trade-off]
+* Bias-Variance trade-off
     - Tibshirani's book provides error decomposition
     - [Tradeoff demostration](https://cs229.stanford.edu/summer2019/BiasVarianceAnalysis.pdf) via L2 regularization in linear regression setting
     - [Critique blog](https://www.bradyneal.com/bias-variance-tradeoff-textbooks-update) following Brady's thesis
