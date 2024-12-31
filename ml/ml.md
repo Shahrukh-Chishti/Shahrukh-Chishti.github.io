@@ -16,9 +16,10 @@ output: true
     - [Critique blog](https://www.bradyneal.com/bias-variance-tradeoff-textbooks-update) following Brady's thesis
     - [Why its kinda open problem, in general](https://ejenner.com/post/bias-variance-tradeoff/#:~:text=General%20theorems%20are%20hard)
         - thanks to the elusive defintion of model complexity
-        - also, not completely true, [Belkin](https://arxiv.org/abs/1812.11118) - probably involves phase transition etc.
-        - recent development on Double-descent explanation [Adlam](https://proceedings.neurips.cc/paper_files/paper/2020/file/7d420e2b2939762031eed0447a9be19f-Paper.pdf)
+        - also, not completely true : [Belkin](https://arxiv.org/abs/1812.11118) - probably involves phase transition etc.
+        - recent development on Double-descent explanation : [Adlam](https://proceedings.neurips.cc/paper_files/paper/2020/file/7d420e2b2939762031eed0447a9be19f-Paper.pdf)
+    - Bias _Gradient_ - Variance tradeoff has mathematical explanation - [Hero III](https://ieeexplore.ieee.org/document/533723)
 
-### important works
-* emergence evidence in LLM[Jason](https://www.jasonwei.net/blog/emergence) - scary stuff
-* hacking models[one-pixel attack](https://arxiv.org/pdf/1710.08864) - possible defence
+### artificial intelligence
+* emergence evidence in LLM : [Jason](https://www.jasonwei.net/blog/emergence) - scary stuff
+* hacking models : [one-pixel attack](https://arxiv.org/pdf/1710.08864) - possible defence
